@@ -229,8 +229,8 @@ default-features = true
 features = []
 optional = true
 
-[dependencies.tch_0-14]
-version = '0.14'
+[dependencies.tch_0-17]
+version = '0.17'
 package = 'tch'
 default-features = true
 features = []

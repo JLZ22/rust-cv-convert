@@ -19,7 +19,7 @@ use_default_features = true
 features = []
 
 [package.tch]
-versions = ["0.14"]
+versions = ["0.17"]
 use_default_features = true
 features = []
 
